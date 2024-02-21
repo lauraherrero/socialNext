@@ -1,8 +1,9 @@
-# React + Vite
+# Social NEXT App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Summary:
+This project consists of a social network that displays a list of employees.
+In addition, you can navigate to see more detailed information about each employee.
+It also has a search engine in the path "/search" to search for TODO's that the user has.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technology Stack
+The application has been made from scratch with React using Vite and a store has been used to manage different states of the application. Also react redux has been used to help the handling of reducers and actions.
